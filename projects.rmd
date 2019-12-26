@@ -1,0 +1,6 @@
+---
+title: "Projects"
+---
+
+## [Logit Models in R](https://williamdingpullman.github.io/myproject/)
+

@@ -1,0 +1,13 @@
+name: "Bills-website"
+output_dir: "."
+navbar:
+  title: "Bill's Website"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About Me"
+      href: about.html
+output:
+  html_document:
+    theme: flatly
+    css: style.css

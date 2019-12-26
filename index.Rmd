@@ -2,4 +2,4 @@
 title: "Bill's Website"
 ---
 
-Hello, my name is Bill (or, Shi Biao) and I am currently a marketing doctoral candidate at Washington State University. I have defended my dissertation proposal and plan to graduate by May 2020. 
+#Hello, my name is Bill (or, Shi Biao) and I am currently a marketing doctoral candidate at Washington State University. I have defended my dissertation proposal and plan to graduate by May 2020. 

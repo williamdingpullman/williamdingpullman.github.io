@@ -7,3 +7,9 @@ title: "Bill's Stats Notes"
 ## [GLMM and R](https://williamdingpullman.github.io/glmm/)
 
 ## [Bayesian and R](https://williamdingpullman.github.io/baye/)
+
+## [Basic Stats](https://williamdingpullman.github.io/basicstats/)
+
+## [Basic R](https://williamdingpullman.github.io/basicr/)
+
+## [MS Stats Project](https://williamdingpullman.github.io/myproject/)

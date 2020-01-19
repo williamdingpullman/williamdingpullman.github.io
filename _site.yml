@@ -2,9 +2,9 @@ name: "Bills-website"
 output_dir: "."
 navbar:
   title: "Bill's Stats Notes"
-  left:
-    - text: "Home"
-      href: index.html
+#  left:
+#    - text: "Home"
+#      href: index.html
 output:
   html_document:
     theme: flatly

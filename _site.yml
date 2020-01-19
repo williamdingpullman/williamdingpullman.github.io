@@ -5,8 +5,6 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "Projects"
-      href: projects.html
 output:
   html_document:
     theme: flatly

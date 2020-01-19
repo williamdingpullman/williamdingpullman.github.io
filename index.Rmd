@@ -4,6 +4,6 @@ title: "Bill's Stats Notes"
 
 ## Hello, my name is Bill (Shi Biao) and I am currently a marketing doctoral candidate at Washington State University. The following is my stats Notes:
 
-## [GLMM and R](https://williamdingpullman.github.io/myproject/)
+## [GLMM and R](https://williamdingpullman.github.io/glmm/)
 
 ## [Bayesian and R](https://williamdingpullman.github.io/baye/)

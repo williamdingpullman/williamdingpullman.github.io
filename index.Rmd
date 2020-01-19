@@ -1,8 +1,5 @@
----
-title: "Bill's Stats Notes"
----
 
-## Hello, my name is Bill (Shi Biao) and I am currently a marketing doctoral candidate at Washington State University. The following is my stats Notes:
+## Hello, my name is Bill (Shi Biao) and I am currently a marketing doctoral candidate at Washington State University. The following is my stats notes:
 
 ## [GLMM and R](https://williamdingpullman.github.io/glmm/)
 

@@ -1,4 +1,8 @@
+<br/>
+
 # How to Link Github to RMarkdown
+
+<br/>
 
 ## Step 1: 
 

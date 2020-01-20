@@ -15,4 +15,4 @@
 
 <br/>
 
-###  I also created a brief tutorial [Click here](https://williamdingpullman.github.io/howto.html) explaining how to link Github and RMarkdown. Feel free to let me know if you have any questions. 
+###  I also created a brief tutorial ([click here](https://williamdingpullman.github.io/howto.html)) explaining how to link Github and RMarkdown. Feel free to let me know if you have any questions. 

@@ -9,4 +9,6 @@
 
 ## [Basic R](https://williamdingpullman.github.io/basicr/)
 
+## [Computing](https://williamdingpullman.github.io/computing/)
+
 ## [MS Stats Project](https://williamdingpullman.github.io/myproject/)

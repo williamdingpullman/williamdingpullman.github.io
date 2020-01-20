@@ -62,7 +62,7 @@
 
 ## Step 8
 
-### Create ".nojekyll" (0 BT file) either manually or through commands "touch .nojekell". (Refer to the next step regarding how to get to this command interface.)
+### Create ".nojekyll" (0 BT file) either manually or through commands "touch .nojekell". (Refer to the next step regarding how to get to this command interface.). You need to save this ".nojekell" file in the folder of "docs", where Github will read your html pages.
 
 ![](pics/8.jpg)
 

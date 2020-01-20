@@ -11,7 +11,7 @@
 
 ## Step 2 
 
-### Create a RMarkdown project through "Version Control" (paste the link; you need to set up Git in RMarkdown in advance.). It will generate a "XX.Rproj" file and a ".gitignore" file.
+### Create a RMarkdown project through "Version Control." Paste the link (you need to set up Git in RMarkdown in advance.). It will generate a "XX.Rproj" file and a ".gitignore" file.
 
 ![](pics/2.jpg) 
 

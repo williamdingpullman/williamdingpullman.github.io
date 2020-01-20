@@ -1,8 +1,8 @@
-# How to link Github to RMarkdown
+# How to Link Github to RMarkdown
 
 ## Step 1: 
 
-### Create a Github repository and copy the git address
+### Create a Github repository and copy the ".git" address.
 
 ![](pics/1.jpg) 
 

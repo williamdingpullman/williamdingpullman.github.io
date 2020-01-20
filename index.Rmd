@@ -21,6 +21,7 @@
 <br/>
 <br/>
 
-<center>
-Bill / Jan. 2020
-</center>
+
+
+### [Last Updated: `r format(Sys.time(), '%d %B, %Y')`]{style="float:right"}
+

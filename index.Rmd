@@ -12,3 +12,7 @@
 ## [Computing](https://williamdingpullman.github.io/computing/)
 
 ## [MS Stats Project](https://williamdingpullman.github.io/myproject/)
+
+<br/>
+
+I also create a brief tutorial [Click here](https://williamdingpullman.github.io/glmm/) explaining how to link Github and RMarkdown. Feel free to let me know if you have any questions. 

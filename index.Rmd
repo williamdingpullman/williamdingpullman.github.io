@@ -11,6 +11,8 @@
 
 ## [Computing](https://williamdingpullman.github.io/computing/)
 
+## [Measure](https://williamdingpullman.github.io/measuretheory/)
+
 ## [MS Stats Project](https://williamdingpullman.github.io/myproject/)
 
 <br/>

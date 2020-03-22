@@ -1,19 +1,19 @@
 
-### Hello, my name is Bill (Shi Biao) and I am currently a marketing doctoral candidate at Washington State University. The following are my stats notes:
+### Hello, my name is Bill. The following are my stat notes:
+
+## [Basic Stat](https://williamdingpullman.github.io/basicstats/)
 
 ## [GLMM and R](https://williamdingpullman.github.io/glmm/)
 
-## [Bayesian and R](https://williamdingpullman.github.io/baye/)
-
-## [Basic Stats](https://williamdingpullman.github.io/basicstats/)
-
 ## [Basic R](https://williamdingpullman.github.io/basicr/)
+
+## [Bayesian and R](https://williamdingpullman.github.io/baye/)
 
 ## [Computing](https://williamdingpullman.github.io/computing/)
 
 ## [Measure](https://williamdingpullman.github.io/measuretheory/)
 
-## [MS Stats Project](https://williamdingpullman.github.io/myproject/)
+## [Project Drafts](https://williamdingpullman.github.io/myproject/)
 
 <br/>
 

@@ -15,6 +15,8 @@
 
 ## [Project Drafts](https://williamdingpullman.github.io/myproject/)
 
+## [SEM and R](https://williamdingpullman.github.io/SEM_R/)
+
 <br/>
 
 ###  I also created a brief tutorial ([click here](https://williamdingpullman.github.io/howto.html)) explaining how to link Github and RMarkdown. Feel free to let me know if you have any questions. 

@@ -1,23 +1,23 @@
 
-### Hello, my name is Bill. I am currently an assistant professor at Southern Connecticut State University. The following are my old statistics notes from my time as a graduate student in a statistics program. Please note that there may be typos or errors, as these notes were written during my studies to prepare for my final project. They were not intended for teaching or publication.
+#### Hello, my name is Bill. I am currently an assistant professor at Southern Connecticut State University. The following are my old statistics notes from my time as a graduate student in a statistics program. Please note that there may be typos or errors, as these notes were written during my studies to prepare for my final project. They were not intended for teaching or publication.
 
-## [Basic Stat](https://williamdingpullman.github.io/basicstats/)
+### [Basic Stat](https://williamdingpullman.github.io/basicstats/)
 
-## [GLMM and R](https://williamdingpullman.github.io/glmm/)
+### [GLMM and R](https://williamdingpullman.github.io/glmm/)
 
-## [Basic R](https://williamdingpullman.github.io/basicr/)
+### [Basic R](https://williamdingpullman.github.io/basicr/)
 
-## [Bayesian and R](https://williamdingpullman.github.io/baye/)
+### [Bayesian and R](https://williamdingpullman.github.io/baye/)
 
-## [Computing](https://williamdingpullman.github.io/computing/)
+### [Computing](https://williamdingpullman.github.io/computing/)
 
-## [Measure](https://williamdingpullman.github.io/measuretheory/)
+### [Measure](https://williamdingpullman.github.io/measuretheory/)
 
-## [SEM and R](https://williamdingpullman.github.io/SEM_R/)
+### [SEM and R](https://williamdingpullman.github.io/SEM_R/)
 
 <br/>
 
-###  I also created a brief tutorial ([click here](https://williamdingpullman.github.io/howto.html)) explaining how to link Github and RMarkdown. Feel free to let me know if you have any questions. 
+####  I also created a brief tutorial ([click here](https://williamdingpullman.github.io/howto.html)) explaining how to link Github and RMarkdown. Feel free to let me know if you have any questions. 
 
 <br/>
 <br/>

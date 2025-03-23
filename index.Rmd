@@ -1,5 +1,5 @@
 
-### Hello, my name is Bill. The following are my stat notes:
+### Hello, my name is Bill. I am currently an assistant professor at Southern Connecticut State University. The following are my old statistics notes from my time as a graduate student in a statistics program. Please note that there may be typos or errors, as these notes were written during my studies to prepare for my final project. They were not intended for teaching or publication.
 
 ## [Basic Stat](https://williamdingpullman.github.io/basicstats/)
 
@@ -12,8 +12,6 @@
 ## [Computing](https://williamdingpullman.github.io/computing/)
 
 ## [Measure](https://williamdingpullman.github.io/measuretheory/)
-
-## [Project Drafts](https://williamdingpullman.github.io/myproject/)
 
 ## [SEM and R](https://williamdingpullman.github.io/SEM_R/)
 

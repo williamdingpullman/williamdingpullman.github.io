@@ -8,7 +8,7 @@
 
 ### Create a Github repository and copy the ".git" address.
 
-![](pics/1.jpg) 
+![](pics/1.JPG) 
 
 <br/>
 
@@ -17,7 +17,7 @@
 
 ### Create a RMarkdown project through "Version Control." Paste the link (you need to set up Git in RMarkdown in advance.). It will generate a "XX.Rproj" file and a ".gitignore" file.
 
-![](pics/2.jpg) 
+![](pics/2.JPG) 
 
 <br/>
 
@@ -25,11 +25,11 @@
 
 ### Google "Bookdown-demo" and get the link to Github. Download all the files (You can type the address shown in the following pic as well.). Paste all the files into the same folder that contains the "XX.Rproj" file and the ".gitignore" file. However, you do not want to replace these two files. 
 
-![](pics/3.jpg) 
+![](pics/3.JPG) 
 
 <br/>
 
-![](pics/4.jpg) 
+![](pics/4.JPG) 
 
 <br/>
 
@@ -37,7 +37,7 @@
 
 ### Restart Rstudio, and open the "bookdown-demo.Rproj" project. Click "Build" menu, and then click "Build All."
 
-![](pics/5.jpg)
+![](pics/5.JPG)
 
 <br/>
 
@@ -45,7 +45,7 @@
 
 ### Add the line of output_dir: "docs" into the file of "_bookdown.yml."
 
-![](pics/6.jpg)
+![](pics/6.JPG)
 
 <br/>
 
@@ -53,7 +53,7 @@
 
 ### Edit the file of "_output.yml" to change the website links. 
 
-![](pics/7.jpg)
+![](pics/7.JPG)
 
 
 <br/>
@@ -68,7 +68,7 @@
 
 ### Create ".nojekyll" (0 BT file) either manually or through commands "touch .nojekell". (Refer to the next step regarding how to get to this command interface.). You need to save this ".nojekell" file in the folder of "docs", where Github will read your html pages.
 
-![](pics/8.jpg)
+![](pics/8.JPG)
 
 <br/>
 
@@ -82,7 +82,7 @@ git commit -m "New file"
 
 git push --all
 
-![](pics/9.jpg)
+![](pics/9.JPG)
 
 <br/>
 
@@ -96,7 +96,7 @@ git push --all
 
 ### Open "xxx.github.io/Your repository/". It should work, and you can see your website now.
 
-![](pics/10.jpg)
+![](pics/10.JPG)
 
 <br/>
 

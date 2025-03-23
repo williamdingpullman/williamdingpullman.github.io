@@ -1,19 +1,74 @@
 
-#### Hello, my name is Bill. I am currently an assistant professor at Southern Connecticut State University. The following are my old statistics notes from my time as a graduate student in a statistics program. Please note that there may be typos or errors, as these notes were written during my studies to prepare for my final project. They were not intended for teaching or publication.
 
-### [Basic Stat](https://williamdingpullman.github.io/basicstats/)
 
-### [GLMM and R](https://williamdingpullman.github.io/glmm/)
+```{r, out.width="9%", echo=FALSE, results='asis'}
+cat('<img src="pics/small.jpg" class="custom-right-align"/>')
 
-### [Basic R](https://williamdingpullman.github.io/basicr/)
+````
 
-### [Bayesian and R](https://williamdingpullman.github.io/baye/)
 
-### [Computing](https://williamdingpullman.github.io/computing/)
+<br>
 
-### [Measure](https://williamdingpullman.github.io/measuretheory/)
+#### My name is Bill. I am an assistant professor at Southern. I teach both analytics courses and non-analytics marketing courses. I enjoy teaching and seeing my students succeed. In Spring 2021, I was honored to be nominated by students for the **J. Philip Smith Outstanding Teaching Award**.
 
-### [SEM and R](https://williamdingpullman.github.io/SEM_R/)
+
+<br>
+
+
+#### Graduate Level:
+- MBA 513 - Advertising and Promotional Strategy <br>
+- MBA 515 - Marketing Management
+
+####  Undergraduate Level (Analytics Courses):
+- MKT 301 - Quantitative Research in Marketing (**developed by me and offered**)<br>
+- MKT 343 - Digital Marketing Analytics <br>
+- MKT 425 - Marketing Research
+
+#### Undergraduate Level (Non-Analytics Courses):
+- MKT 321 - Consumer Behavior <br>
+- MKT 200 - Principles of Marketing <br>
+- MKT 342 - Social Media Marketing
+
+####  Other Course Info:
+- MKT 333 - Digital Advertising (**developed by me but not yet offered**)
+
+<br>
+
+#### Regarding research, I have two streams of focus: one is about gift giving and consumer identity, and the other is about consumer financial decision-making. I have published my research in peer-reviewed academic journals, conference proceedings, and through conference presentations.
+
+#### Peer-reviewed Academic Journals and Conference Proceedings:
+- Ding, William, Mario Pandelaere, Hendrik Slabbinck, and David Sprott (2020), "Conspicuous Gifting: When and Why Women (Do Not) Appreciate Men's Romantic Luxury Gifts", *Journal of Experimental Social Psychology*. (Australian Business Deans Council (ABDC) journal list: A; Scientific Journal Rankings (SJR): Q1) <br> 
+
+- Weber, T.J., Chris Hydock, Chris Hydock, William Ding, Meryl Gardner, Pradeep Jacob, Naomi Mandel, David Sprott, Eric Van Steenburg (2021), "Political Polarization: Challenges, Opportunities, and Hope for Consumer Welfare, Marketers, and Public Policy", *Journal of Public Policy & Marketing*. (ABDC journal list: A; SJR: Q1) <br>
+
+- Ding, William, Jeff Joireman, and David Sprott (2022), "How Politicized Brands Shape Gift Appreciation", *Journal of the Association for Consumer Research*. (ABDC journal list: B; SJR: Q1) <br>
+
+- Ding, William, David Sprott, and Andrew Perkins (2018), "How Materialism Shapes Spending on Friends", *Advances in Consumer Research (Volume 46)*. (ABDC journal list: B) <br>
+
+- Ding, William and David Sprott (2019), "How Religiosity Shapes Coupon Usage", *Advances in Consumer Research (Volume 47)*. (ABDC journal list: B) 
+
+#### Most Recent Academic Conference Presentations: 
+- Ding, W., Sprott, D. E., Society for Consumer Psychology Annual Conference, "Is \( 200 \times 5 \) different from \( 500 \times 2 \)? How Allocation Granularity Shapes Investing Preferences", *Society for Consumer Psychology*, Les Vegas. (March 1, 2025). <br>
+
+- Ding, W., Sprott, D. E., Society for Judgment and Decision Making Annual Conference, "How Allocation Granularity Shapes Investing Preferences", *Society for Judgment and Decision Making*, New York City. (November 22, 2024).
+
+<br>
+
+#### The following are my old statistics notes from my time as a graduate student in a statistics program. Please note that there may be typos or errors, as these notes were written during my studies to prepare for my final project. (I updated some of them after the project.) They were not intended for teaching or publication.
+
+- [Basic Stat](https://williamdingpullman.github.io/basicstats/)
+
+- [GLMM and R](https://williamdingpullman.github.io/glmm/)
+
+- [Basic R](https://williamdingpullman.github.io/basicr/)
+
+- [Bayesian and R](https://williamdingpullman.github.io/baye/)
+
+- [Computing](https://williamdingpullman.github.io/computing/)
+
+- [Measure](https://williamdingpullman.github.io/measuretheory/)
+
+- [SEM and R](https://williamdingpullman.github.io/SEM_R/)
 
 <br/>
 
@@ -25,5 +80,5 @@
 
 
 
-### [Last Updated: `r format(Sys.time(), '%d %B, %Y')`]{style="float:right"}
+#### [Last Updated: `r format(Sys.time(), '%d %B, %Y')`]{style="float:right"}
 

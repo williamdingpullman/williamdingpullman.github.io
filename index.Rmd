@@ -36,7 +36,7 @@ cat('<img src="pics/small.jpg" class="custom-right-align"/>')
 
 #### Regarding research, I have two streams of focus: one is about gift giving and consumer identity, and the other is about consumer financial decision-making. I have published my research in peer-reviewed academic journals, conference proceedings, and through conference presentations.
 
-#### Peer-reviewed Academic Journals and Conference Proceedings:
+#### **Peer-reviewed Academic Journals and Conference Proceedings:**
 - Ding, William, Mario Pandelaere, Hendrik Slabbinck, and David Sprott (2020), "Conspicuous Gifting: When and Why Women (Do Not) Appreciate Men's Romantic Luxury Gifts", *Journal of Experimental Social Psychology*. (Australian Business Deans Council (ABDC) journal list: A; Scientific Journal Rankings (SJR): Q1) <br> 
 
 - Weber, T.J., Chris Hydock, Chris Hydock, William Ding, Meryl Gardner, Pradeep Jacob, Naomi Mandel, David Sprott, Eric Van Steenburg (2021), "Political Polarization: Challenges, Opportunities, and Hope for Consumer Welfare, Marketers, and Public Policy", *Journal of Public Policy & Marketing*. (ABDC journal list: A; SJR: Q1) <br>
@@ -47,7 +47,7 @@ cat('<img src="pics/small.jpg" class="custom-right-align"/>')
 
 - Ding, William and David Sprott (2019), "How Religiosity Shapes Coupon Usage", *Advances in Consumer Research (Volume 47)*. (ABDC journal list: B) 
 
-#### Most Recent Academic Conference Presentations: 
+#### **Most Recent Academic Conference Presentations:** 
 - Ding, W., Sprott, D. E., Society for Consumer Psychology Annual Conference, "Is \( 200 \times 5 \) different from \( 500 \times 2 \)? How Allocation Granularity Shapes Investing Preferences", *Society for Consumer Psychology*, Les Vegas. (March 1, 2025). <br>
 
 - Ding, W., Sprott, D. E., Society for Judgment and Decision Making Annual Conference, "How Allocation Granularity Shapes Investing Preferences", *Society for Judgment and Decision Making*, New York City. (November 22, 2024).

@@ -1,7 +1,7 @@
 
 
 
-```{r, out.width="9%", echo=FALSE, results='asis'}
+```{r, echo=FALSE, results='asis'}
 cat('<img src="pics/small.jpg" class="custom-right-align"/>')
 
 ````
